@@ -181,7 +181,7 @@ requirements.txt
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/fake-news-cross-domain.git
+git clone [git clone https://github.com/yourusername/fake-news-cross-domain.git](https://github.com/TanujaMore27/Cross-domain-fake-news-detection-project.git)
 ```
 
 Install dependencies:
