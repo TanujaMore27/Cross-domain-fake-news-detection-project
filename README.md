@@ -1,10 +1,10 @@
-# Cross-Domain Fake News Detection using TF-IDF, BERT and SBERT
+# Cross-Domain Fake News Detection using TF-IDF and SBERT
 
 ## Overview
 
 Fake news detection models often perform well when trained and tested on the same dataset but struggle when applied to different datasets. This project investigates the challenge of **cross-domain fake news detection**.
 
-Traditional text representations such as **TF-IDF** are compared with **semantic embeddings from BERT and Sentence-BERT (SBERT)** to evaluate how well they generalize across datasets.
+Traditional text representations such as **TF-IDF** are compared with **semantic embeddings from  Sentence-BERT (SBERT)** to evaluate how well they generalize across datasets.
 
 Two datasets were used in this study:
 
@@ -75,10 +75,6 @@ Three types of text representations were tested:
 ### TF-IDF
 
 Captures word importance using frequency statistics.
-
-### BERT Embeddings
-
-Contextual embeddings generated using pretrained transformer models.
 
 ### Sentence-BERT (SBERT)
 
@@ -181,7 +177,7 @@ requirements.txt
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/fake-news-cross-domain.git
+git clone [git clone https://github.com/yourusername/fake-news-cross-domain.git](https://github.com/TanujaMore27/Cross-domain-fake-news-detection-project.git)
 ```
 
 Install dependencies:

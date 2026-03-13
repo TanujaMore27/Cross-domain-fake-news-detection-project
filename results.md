@@ -85,7 +85,7 @@ Accuracy: **0.48**
 
 # Transformer-Based Experiments
 
-## BERT Embeddings (ISOT)
+## SBERT Embeddings (ISOT)
 
 Classifier: Logistic Regression
 
@@ -158,7 +158,7 @@ Confusion Matrix:
 | TF-IDF (ISOT)       | 0.99      |
 | TF-IDF (LIAR)       | 0.63      |
 | Cross-Domain TF-IDF | 0.48–0.51 |
-| BERT (ISOT)         | 0.94      |
+| SBERT (ISOT)         | 0.94      |
 | SBERT (LIAR)        | 0.65      |
 | Cross-Domain SBERT  | 0.55      |
 
